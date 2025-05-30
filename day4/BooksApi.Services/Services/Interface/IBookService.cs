@@ -11,5 +11,9 @@ namespace BooksApi.Services.Services.Interface
         Book? GetBookById(int id);
         Task InsertBook(BookDetails bookDetails);
         BookDetails GetBookDetailsById(int id);
+        Task<List<BookDetails>> GetAllFromDbAsync();
+        Task updateBook(BookDetails bookDetails);
+        Task DeleteBook(int id);
+
     }
 }

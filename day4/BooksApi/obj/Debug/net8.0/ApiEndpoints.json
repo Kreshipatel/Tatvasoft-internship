@@ -17,6 +17,22 @@
   },
   {
     "ContainingType": "BooksApi.Controllers.BookController",
+    "Method": "DeleteBook",
+    "RelativePath": "api/Book/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BooksApi.Controllers.BookController",
     "Method": "GetAll",
     "RelativePath": "api/Book/GetAll",
     "HttpMethod": "GET",
@@ -37,6 +53,22 @@
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BooksApi.Controllers.BookController",
+    "Method": "UpdateBook",
+    "RelativePath": "api/Book/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookDetails",
+        "Type": "BooksApi.Entities.Entities.BookDetails",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

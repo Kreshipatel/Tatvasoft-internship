@@ -44,6 +44,21 @@ namespace BooksApi.Controllers
         }
 
         // To Update Book
+        [HttpPut]
+        [Route("Update")]
+        public async Task<ActionResult> UpdateBook(BookDetails bookDetails)
+        {
+            await _bookService.updateBook(bookDetails);
+            return Ok("Book updated successfully.");
+        }
+
         // To Delete Book
+        [HttpDelete]
+        [Route("Delete/{id}")]
+        public async Task<ActionResult> DeleteBook(int id)
+        {
+            await _bookService.DeleteBook(id);
+            return Ok("Book deleted successfully.");
+        }
     }
 }

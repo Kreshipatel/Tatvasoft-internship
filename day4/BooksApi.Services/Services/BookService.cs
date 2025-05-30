@@ -46,7 +46,19 @@ namespace BooksApi.Services
             return _bookRepository.GetById(id);
         }
 
-        // To Update Book
-        // To Delete Book
+        public async Task<List<BookDetails>> GetAllFromDbAsync()
+        {
+            return await _bookRepository.GetAllAsync();
+        }
+
+        public async Task updateBook(BookDetails bookDetails)
+        {
+            await _bookRepository.UpdateBook(bookDetails);
+        }
+
+        public async Task DeleteBook(int id)
+        {
+            await _bookRepository.DeleteBook(id);
+        }
     }
 }
