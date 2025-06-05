@@ -2154,11 +2154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Entities\\BooksApi.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Entities\\BooksApi.Entities.csproj",
       "projectName": "BooksApi.Entities",
-      "projectPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Entities\\BooksApi.Entities.csproj",
+      "projectPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Entities\\BooksApi.Entities.csproj",
       "packagesPath": "C:\\Users\\kresh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Entities\\obj\\",
+      "outputPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

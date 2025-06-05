@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Services\\BooksApi.Services.csproj": {}
+    "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Services\\BooksApi.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Data\\BooksApi.Data.csproj": {
+    "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Data\\BooksApi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Data\\BooksApi.Data.csproj",
+        "projectUniqueName": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Data\\BooksApi.Data.csproj",
         "projectName": "BooksApi.Data",
-        "projectPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Data\\BooksApi.Data.csproj",
+        "projectPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Data\\BooksApi.Data.csproj",
         "packagesPath": "C:\\Users\\kresh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Data\\obj\\",
+        "outputPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Entities\\BooksApi.Entities.csproj": {
+    "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Entities\\BooksApi.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Entities\\BooksApi.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Entities\\BooksApi.Entities.csproj",
         "projectName": "BooksApi.Entities",
-        "projectPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Entities\\BooksApi.Entities.csproj",
+        "projectPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Entities\\BooksApi.Entities.csproj",
         "packagesPath": "C:\\Users\\kresh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Entities\\obj\\",
+        "outputPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Services\\BooksApi.Services.csproj": {
+    "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Services\\BooksApi.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Services\\BooksApi.Services.csproj",
+        "projectUniqueName": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Services\\BooksApi.Services.csproj",
         "projectName": "BooksApi.Services",
-        "projectPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Services\\BooksApi.Services.csproj",
+        "projectPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Services\\BooksApi.Services.csproj",
         "packagesPath": "C:\\Users\\kresh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Services\\obj\\",
+        "outputPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -178,11 +178,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Data\\BooksApi.Data.csproj": {
-                "projectPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Data\\BooksApi.Data.csproj"
+              "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Data\\BooksApi.Data.csproj": {
+                "projectPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Data\\BooksApi.Data.csproj"
               },
-              "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Entities\\BooksApi.Entities.csproj": {
-                "projectPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Entities\\BooksApi.Entities.csproj"
+              "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Entities\\BooksApi.Entities.csproj": {
+                "projectPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Entities\\BooksApi.Entities.csproj"
               }
             }
           }

@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\",
+  "WorkspaceRootPath": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|c:\\users\\kresh\\onedrive\\desktop\\day-6\\booksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|c:\\users\\kresh\\onedrive\\desktop\\tatvasoft_internship\\day6\\booksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|c:\\users\\kresh\\onedrive\\desktop\\day-6\\booksapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|c:\\users\\kresh\\onedrive\\desktop\\tatvasoft_internship\\day6\\booksapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37AAB21C-5370-452D-BEC0-734A9090C1B7}|BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\kresh\\onedrive\\desktop\\day-6\\booksapi.entities\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37AAB21C-5370-452D-BEC0-734A9090C1B7}|BooksApi.Entities\\BooksApi.Entities.csproj|c:\\users\\kresh\\onedrive\\desktop\\tatvasoft_internship\\day6\\booksapi.entities\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37AAB21C-5370-452D-BEC0-734A9090C1B7}|BooksApi.Entities\\BooksApi.Entities.csproj|solutionrelative:booksapi.entities\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|c:\\users\\kresh\\onedrive\\desktop\\day-6\\booksapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|c:\\users\\kresh\\onedrive\\desktop\\tatvasoft_internship\\day6\\booksapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BooksApi\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi\\appsettings.Development.json",
               "RelativeToolTip": "BooksApi\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -61,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi\\Controllers\\BookController.cs",
+              "DocumentMoniker": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "BooksApi\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi\\Controllers\\BookController.cs",
               "RelativeToolTip": "BooksApi\\Controllers\\BookController.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAuwEcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Entities\\Entities\\Users.cs",
+              "DocumentMoniker": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Entities\\Entities\\Users.cs",
               "RelativeDocumentMoniker": "BooksApi.Entities\\Entities\\Users.cs",
-              "ToolTip": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi.Entities\\Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi.Entities\\Entities\\Users.cs",
               "RelativeToolTip": "BooksApi.Entities\\Entities\\Users.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAgwA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "JwtHelper.cs",
-              "DocumentMoniker": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi\\Helpers\\JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi\\Helpers\\JwtHelper.cs",
               "RelativeDocumentMoniker": "BooksApi\\Helpers\\JwtHelper.cs",
-              "ToolTip": "C:\\Users\\kresh\\OneDrive\\Desktop\\day-6\\BooksApi\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\kresh\\OneDrive\\Desktop\\Tatvasoft_internship\\day6\\BooksApi\\Helpers\\JwtHelper.cs",
               "RelativeToolTip": "BooksApi\\Helpers\\JwtHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

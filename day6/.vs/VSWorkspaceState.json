@@ -6,6 +6,6 @@
     "\\BooksApi.Entities\\Entities",
     "\\BooksApi\\Controllers"
   ],
-  "SelectedNode": "\\BooksApi\\appsettings.Development.json",
+  "SelectedNode": "\\BooksApi.sln",
   "PreviewInSolutionExplorer": false
 }
